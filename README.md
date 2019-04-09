@@ -27,5 +27,5 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `Creating a new React app:`
 
--	create-react-app <name of the new app directory>
+-	create-react-app *name of the new app directory*
 -	Open the app directory in any editor you like
